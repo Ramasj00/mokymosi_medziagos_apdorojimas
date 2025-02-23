@@ -36,7 +36,7 @@ pip install pdfminer.six pytesseract Pillow pdf2image pandas matplotlib plotly g
 
 3. **Run the script**:
    ```bash
-   python script.py
+   python main.py
    ```
 
 4. **Output**:
